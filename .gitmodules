@@ -1,0 +1,3 @@
+[submodule "lib/moderncv"]
+	path = lib/moderncv
+	url = https://github.com/xdanaux/moderncv.git
